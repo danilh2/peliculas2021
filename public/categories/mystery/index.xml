@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mystery on Movie Reviews</title>
+    <link>https://example.com/categories/mystery/</link>
+    <description>Recent content in Mystery on Movie Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/mystery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Guilty</title>
+      <link>https://example.com/m/the-guilty/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/m/the-guilty/</guid>
+      <description>Joe Baylor, an extremely stressed LAPD agent called, is working the night shift at an emergency call center (911), which is filled with calls related to large wildfires in the Hollywood Hills. He has been temporarily suspended from patrol duties and placed on &amp;ldquo;desk duty&amp;rdquo; at the call center, while awaiting a court hearing related to an incident that occurred eight months ago, but is hopeful of returning to normal duties later.</description>
+    </item>
+    
+  </channel>
+</rss>

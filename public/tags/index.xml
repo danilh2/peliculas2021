@@ -6,22 +6,49 @@
     <description>Recent content in Tags on Movie Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>movie</title>
+      <link>https://example.com/tags/movie/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mystery</title>
+      <link>https://example.com/tags/mystery/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/mystery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theguilty</title>
+      <link>https://example.com/tags/theguilty/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/theguilty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thriller</title>
+      <link>https://example.com/tags/thriller/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/thriller/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>action</title>
       <link>https://example.com/tags/action/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://example.com/tags/movie/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/movie/</guid>
       <description></description>
     </item>
     
@@ -49,69 +76,6 @@
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/science-fiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://example.com/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://example.com/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://example.com/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://example.com/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/emoji/</guid>
       <description></description>
     </item>
     
