@@ -1,5 +1,5 @@
 baseurl: https://localhost/peliculas2021
-languageCode: es-es
+languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: Movie Reviews
@@ -12,7 +12,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl, it
-DefaultContentLanguage: es
+DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
