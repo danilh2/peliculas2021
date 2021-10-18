@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>movie on Movie Reviews</title>
+    <link>https://example.com/tags/movie/</link>
+    <description>Recent content in movie on Movie Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sweet Girl</title>
+      <link>https://example.com/m/sweet-girl/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/m/sweet-girl/</guid>
+      <description>A devastated husband vows to bring justice to the people responsible for his wife’s death while protecting the only family he has left, his daughter.
+ Year: 2021 Running time: 96 min. Country: United States Director: Brian Andrew Mendoza Screenwriter: Philip Eisner, Gregg Hurwitz, Will Staples Music: Steven Price Cinematography: Barry Ackroyd Producer: ASAP Entertainment, Pride of Gypsies, On The Roam Distributor: Netflix Cast: Jason Momoa, Isabela Merced, Manuel Garcia-Rulfo, Adria Arjona, Raza Jaffrey, Justin Bartha, Lex Scott Davis, Michael Raymond-James, Dominic Fumusa, Nelson Franklin, Reggie Lee, Bryan Howe, Dale Pavinski  Trailer  Sweet Girl Official Trailer</description>
+    </item>
+    
+    <item>
+      <title>Oxygen</title>
+      <link>https://example.com/m/oxygen/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/m/oxygen/</guid>
+      <description>A woman wakes up in a medical cryogenic unit. She does not remember who she is or how she ended up locked in a box no bigger than a coffin. While running out of oxygen, he must rebuild his memories to escape that nightmare.
+ Year: 2021 Running time: 101 min. Country: France Director: Alexandre Aja Screenwriter: Christie LeBlanc Music: Robin Coudert Cinematography: Maxime Alexandre Producer: Co-production France-United States; Echo Lake Productions, Wild Bunch, Getaway Films Distributor: Netflix Cast: Mélanie Laurent, Malik Zidi, Marc Saez, Eric Herson-Macarel, Cathy Cerda  Trailer  Oxygen Official Trailer</description>
+    </item>
+    
+  </channel>
+</rss>
