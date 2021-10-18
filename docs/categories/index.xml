@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Movie Reviews</title>
+    <link>https://localhost/peliculas2021/categories/</link>
+    <description>Recent content in Categories on Movie Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost/peliculas2021/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie</title>
+      <link>https://localhost/peliculas2021/categories/movie/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/categories/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mystery</title>
+      <link>https://localhost/peliculas2021/categories/mystery/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/categories/mystery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thriller</title>
+      <link>https://localhost/peliculas2021/categories/thriller/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/categories/thriller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action</title>
+      <link>https://localhost/peliculas2021/categories/action/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/categories/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Fiction</title>
+      <link>https://localhost/peliculas2021/categories/science-fiction/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/categories/science-fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://localhost/peliculas2021/categories/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

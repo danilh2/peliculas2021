@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Movie Reviews</title>
+    <link>https://localhost/peliculas2021/tags/</link>
+    <description>Recent content in Tags on Movie Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost/peliculas2021/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>movie</title>
+      <link>https://localhost/peliculas2021/tags/movie/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mystery</title>
+      <link>https://localhost/peliculas2021/tags/mystery/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/mystery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theguilty</title>
+      <link>https://localhost/peliculas2021/tags/theguilty/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/theguilty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thriller</title>
+      <link>https://localhost/peliculas2021/tags/thriller/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/thriller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>action</title>
+      <link>https://localhost/peliculas2021/tags/action/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sweetgirl</title>
+      <link>https://localhost/peliculas2021/tags/sweetgirl/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/sweetgirl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oxygen</title>
+      <link>https://localhost/peliculas2021/tags/oxygen/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/oxygen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science fiction</title>
+      <link>https://localhost/peliculas2021/tags/science-fiction/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/peliculas2021/tags/science-fiction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
