@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://localhost/peliculas2021
 languageCode: es-es
 theme: hugo-theme-stack
 paginate: 5
